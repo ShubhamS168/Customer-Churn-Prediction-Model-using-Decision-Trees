@@ -1,5 +1,8 @@
 # Customer Churn Prediction Model - Streaming Entertainment Industry
 
+**Deployed Prediction Model:** [Customer Churn Prediction Model](https://customer-churn-prediction-model-using-decision-trees-hfkmnsgxm.streamlit.app/)
+
+
 ## 📋 Project Overview
 
 This is a **complete, production-ready Machine Learning project** that predicts customer churn for a streaming entertainment platform using **Decision Tree Classification**. The project includes data generation, preprocessing, exploratory analysis, model training with hyperparameter tuning, and an interactive web application.
@@ -394,12 +397,6 @@ pip install matplotlib seaborn
 
 ---
 
-## 📜 License
-
-This project is provided as-is for educational purposes.
-
----
-
 ## ✨ Key Takeaways
 
 1. **Data Quality Matters** - Good preprocessing improves model significantly
@@ -410,14 +407,24 @@ This project is provided as-is for educational purposes.
 
 ---
 
-## 📞 Support
+## 📬 Contact
 
-For questions or issues:
-- Review the code comments for detailed explanations
-- Check the troubleshooting section above
-- Run the project step-by-step to identify issues
-- Verify all dependencies are installed correctly
+For any queries, feedback, or collaboration, feel free to connect:
+
+📧 **Email:** [shubhamsourav475@gmail.com](mailto:shubhamsourav475@gmail.com)
 
 ---
+
+> 📝 **Note:**  
+> This repository is maintained as part of the Capstone Project and is intended for educational use.
+
+## 🪪 License
+
+Distributed under the MIT License.  
+© 2025 Shubham Sourav. All rights reserved.
+
+---
+
+
 
 **Happy Learning! 🚀**
