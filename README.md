@@ -1,14 +1,14 @@
 # Customer Churn Prediction Model - Streaming Entertainment Industry
 
-<!-- **🔗 Deployed Prediction Model:** [Customer Churn Prediction Model](https://customer-churn-prediction-model-using-decision-trees-hfkmnsgxm.streamlit.app/) -->
+**🔗 Deployed Prediction Model:** [Customer Churn Prediction Model](https://customer-churn-prediction-model-using-decision-trees-hfkmnsgxm.streamlit.app/)
 
-**🔗 Deployed Prediction Model:** <a href="https://customer-churn-prediction-model-using-decision-trees-hfkmnsgxm.streamlit.app/" target="_blank">
+<!-- **🔗 Deployed Prediction Model:** <a href="https://customer-churn-prediction-model-using-decision-trees-hfkmnsgxm.streamlit.app/" target="_blank">
  Customer Churn Prediction Model
 </a>
 
 <a href="https://customer-churn-prediction-model-using-decision-trees-hfkmnsgxm.streamlit.app/" target="_blank">
 🔗 Deployed Prediction Model: Customer Churn Prediction Model
-</a>
+</a> -->
 
 
 ## 📋 Project Overview
