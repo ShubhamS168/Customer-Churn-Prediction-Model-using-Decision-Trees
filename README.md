@@ -6,6 +6,11 @@
  Customer Churn Prediction Model
 </a>
 
+<a href="https://customer-churn-prediction-model-using-decision-trees-hfkmnsgxm.streamlit.app/" target="_blank">
+🔗 Deployed Prediction Model: Customer Churn Prediction Model
+</a>
+
+
 ## 📋 Project Overview
 
 This is a **complete, production-ready Machine Learning project** that predicts customer churn for a streaming entertainment platform using **Decision Tree Classification**. The project includes data generation, preprocessing, exploratory analysis, model training with hyperparameter tuning, and an interactive web application.
